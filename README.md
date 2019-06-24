@@ -1,3 +1,9 @@
+<!--
+ * @Description: readme
+ * @Author: chenchen
+ * @Date: 2019-06-23 23:59:29
+ * @LastEditTime: 2019-06-24 09:08:02
+ -->
 # mpvue Typescript demo
 
 > A mpvue project with Typescript
@@ -10,16 +16,16 @@
 
 ``` bash
 # install dependencies
-yarn
+npm i
 
 # serve with hot reload at localhost:7100
-yarn run dev
+npm run dev
 
 # build for production with minification
-yarn run build
+npm run build
 
 # build for production and view the bundle analyzer report
-yarn run build --report
+npm run build --report
 ```
 
 
